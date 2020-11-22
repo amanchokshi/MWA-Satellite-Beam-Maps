@@ -64,7 +64,7 @@ plt.savefig("S06XX_rf0XX_0.png")
 ### Beam Analysis
 
 The `tile_maps` and `tile_slices` directories part of this repository contain basic analysis of all available beam maps. These plots are identical to
-Figure 10, and Figure 12 in Chokshi et al., 2020, repeated for all beam maps.
+Figure 10, and Figure 12 in Chokshi et al., 2020, with identical analysis repeated for all beam maps.
 
 #### Tile Maps
 
