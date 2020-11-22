@@ -16,7 +16,7 @@ git clone https://github.com/amanchokshi/MWA-Satellite-Beam-Maps.git
 
 ### MWA Maps
 
-All measured MWA beam maps are saved in the `mwa_maps` directory, organised according by reference antenna and telescope pointing number. The beam measurements
+All measured MWA beam maps are saved in the `mwa_maps` directory, organised by reference antenna and telescope pointing number. The beam measurements
 are saved as [NumPy Compressed Files](https://numpy.org/doc/stable/reference/generated/numpy.savez_compressed.html) in the form of
 [HEALPix](https://healpix.jpl.nasa.gov) maps with `NSIDE=32`.
 
