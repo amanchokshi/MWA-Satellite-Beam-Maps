@@ -77,3 +77,15 @@ Figure 10, and Figure 12 in Chokshi et al., 2020, with identical analysis repeat
 <p float="left">
   <img src="docs/S06_rf0_map_slices.jpg" width="99%" />
 </p>
+
+### Citation
+
+These beam maps are the results of a paper titled **Dual Polarization Measurements of MWA Beampatterns at 137 MHz**. If you use them, please cite Chokshi et al., 2020a.
+If you use the associated EMBERS pipeline, please cite Chokshi et al., 2020b - **EMBERS: Experimental Measurement of BEam Responses with Satellites**.
+
+
+If you have any questions, feel free to email me at <achokshi@student.unimelb.edu.au>.
+
+Thanks,
+
+Aman Chokshi
